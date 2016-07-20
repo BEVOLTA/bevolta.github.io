@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="87" height="65" viewBox="0 0 87 65" version="1.1">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g transform="translate(-833.000000, -2295.000000)">
+      <g transform="translate(0.000000, 1721.000000)">
+        <g transform="translate(170.500000, 379.513962)">
+          <g transform="translate(64.000000, 95.954521)">
+            <g transform="translate(596.485815, 97.750977)">
+              <rect stroke="#099870" fill="#D8D8D8" x="44.5" y="14.93" width="2" height="5.05"/>
+              <path d="M38.52 8.87C38.51 8.7 38.5 8.53 38.5 8.36 38.5 4.18 41.86 0.79 46 0.79 50.14 0.79 53.5 4.18 53.5 8.36 53.5 12.55 50.14 15.94 46 15.94 45.83 15.94 45.67 15.93 45.5 15.92L45.5 14.91C45.67 14.92 45.83 14.93 46 14.93 49.59 14.93 52.5 11.99 52.5 8.36 52.5 4.74 49.59 1.8 46 1.8 42.41 1.8 39.5 4.74 39.5 8.36 39.5 8.53 39.51 8.7 39.52 8.87L38.52 8.87Z" fill="#099870"/>
+              <rect stroke="#099870" fill="#A1EAD6" x="11" y="39.39" width="69" height="26.26"/>
+              <polygon stroke="#099870" stroke-width="1.5" points="45.5 17.96 91 41.41 0 41.41 "/>
+              <rect stroke="#51BE9D" fill="#F0FEFA" x="13" y="39.39" width="69" height="26.26"/>
+              <rect fill="#A1EAD6" x="14" y="40.4" width="67" height="11.11"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

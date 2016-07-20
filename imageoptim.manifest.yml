@@ -1,0 +1,90 @@
+---
+build/android-icon-144x144.png: 2016-07-20 10:57:27.000000000 +02:00
+build/android-icon-192x192.png: 2016-07-20 10:57:27.000000000 +02:00
+build/android-icon-36x36.png: 2016-07-20 10:57:27.000000000 +02:00
+build/android-icon-48x48.png: 2016-07-20 10:57:27.000000000 +02:00
+build/android-icon-72x72.png: 2016-07-20 10:57:27.000000000 +02:00
+build/android-icon-96x96.png: 2016-07-20 10:57:27.000000000 +02:00
+build/apple-icon-114x114.png: 2016-07-20 10:57:27.000000000 +02:00
+build/apple-icon-120x120.png: 2016-07-20 10:57:27.000000000 +02:00
+build/apple-icon-144x144.png: 2016-07-20 10:57:27.000000000 +02:00
+build/apple-icon-152x152.png: 2016-07-20 10:57:27.000000000 +02:00
+build/apple-icon-180x180.png: 2016-07-20 10:57:27.000000000 +02:00
+build/apple-icon-57x57.png: 2016-07-20 10:57:27.000000000 +02:00
+build/apple-icon-60x60.png: 2016-07-20 10:57:27.000000000 +02:00
+build/apple-icon-72x72.png: 2016-07-20 10:57:27.000000000 +02:00
+build/apple-icon-76x76.png: 2016-07-20 10:57:27.000000000 +02:00
+build/apple-icon-precomposed.png: 2016-07-20 10:57:27.000000000 +02:00
+build/apple-icon.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/adjustment_screenshot.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/bevolta_ddmrp_capacity_screenshot.png: 2016-07-20 10:57:27.000000000
+  +02:00
+build/assets/img/bom_screenshot.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/business_consulting_1.jpg: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/carousel_arrow.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/carousel_arrow@2x.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/execution_screenshot.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/flow_dot.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/flow_dot_yellow.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/icon_app@2x.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/icon_consulting@2x.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/icon_ddmrp_flow_adjustments.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/icon_ddmrp_flow_adjustments@2x.png: 2016-07-20 10:57:27.000000000
+  +02:00
+build/assets/img/icon_ddmrp_flow_execution.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/icon_ddmrp_flow_execution@2x.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/icon_ddmrp_flow_planning.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/icon_ddmrp_flow_planning@2x.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/icon_ddmrp_flow_positioning.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/icon_ddmrp_flow_positioning@2x.png: 2016-07-20 10:57:27.000000000
+  +02:00
+build/assets/img/icon_ddmrp_flow_profiles.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/icon_ddmrp_flow_profiles@2x.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/icon_ddmrp_flow_report_purple@2x.png: 2016-07-20 10:57:27.000000000
+  +02:00
+build/assets/img/icon_ddmrp_flow_reports.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/icon_ddmrp_flow_reports@2x.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/icon_ddmrp_flow_simulation.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/icon_ddmrp_flow_simulation@2x.png: 2016-07-20 10:57:27.000000000
+  +02:00
+build/assets/img/icon_erp@2x.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/logo_ddi_compliant.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/logo_ifs.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/logo_infor_m3.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/logo_m3.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/logo_mgcm.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/logo_microsoft_dynamics.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/logo_oracle_jdedwards.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/m3_screenshot_laptop_1.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/noise.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/old/diagram_4d_800px.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/old/flow_dot@1x.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/old/flow_dot@2x.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/old/hero_river_bw.png: 2016-07-20 10:58:40.000000000 +02:00
+build/assets/img/old/icon_ddmrp_flow_1_purple@2x.png: 2016-07-20 10:57:27.000000000
+  +02:00
+build/assets/img/old/icon_ddmrp_flow_2_purple@2x.png: 2016-07-20 10:57:27.000000000
+  +02:00
+build/assets/img/old/icon_ddmrp_flow_3_purple@2x.png: 2016-07-20 10:57:27.000000000
+  +02:00
+build/assets/img/old/icon_ddmrp_flow_4_purple@2x.png: 2016-07-20 10:57:27.000000000
+  +02:00
+build/assets/img/old/icon_ddmrp_flow_5_purple@2x.png: 2016-07-20 10:57:27.000000000
+  +02:00
+build/assets/img/old/icon_ddmrp_flow_purple@2x.png: 2016-07-20 10:57:27.000000000
+  +02:00
+build/assets/img/old/m3_screenshot_1.jpg: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/old/sine_illus.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/old/sky.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/old/stardust.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/planning_screenshot.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/profiles_screenshot.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/reports_screenshot.png: 2016-07-20 10:57:27.000000000 +02:00
+build/assets/img/simulation_screenshot.png: 2016-07-20 10:57:27.000000000 +02:00
+build/favicon-16x16.png: 2016-07-20 10:57:27.000000000 +02:00
+build/favicon-32x32.png: 2016-07-20 10:57:27.000000000 +02:00
+build/favicon-96x96.png: 2016-07-20 10:57:27.000000000 +02:00
+build/ms-icon-144x144.png: 2016-07-20 10:57:27.000000000 +02:00
+build/ms-icon-150x150.png: 2016-07-20 10:57:27.000000000 +02:00
+build/ms-icon-310x310.png: 2016-07-20 10:57:27.000000000 +02:00
+build/ms-icon-70x70.png: 2016-07-20 10:57:27.000000000 +02:00

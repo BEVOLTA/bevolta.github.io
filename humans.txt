@@ -1,0 +1,15 @@
+/* TEAM */
+  Developer: Camille Wanty
+  Contact: c.wanty [at] bevolta.com
+  Twitter: @gwak
+  From: Paris, France.
+
+
+/* THANKS */
+
+
+/* SITE */
+  Last update: 2016-07-20 12:24:28 +0200
+  Language: English
+  Doctype: HTML5
+  IDE: SublimeText 3
